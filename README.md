@@ -1,2 +1,3 @@
-# TrabajoPracticoPOO1
-Trabajo práctico final POO1
+#Objetivo:
+
+Construir una PlayList utilizando programación orientada a objetos.
